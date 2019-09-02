@@ -1,0 +1,1 @@
+https://www.google.com/maps/dir/?api=1&origin=Paris,France&destination=Cherbourg,France&travelmode=driving&waypoints=Palace+of+Versailles%7CLisieux%7CChartres+Cathedral%7CCathedral+of+Saint+Julian+of+Le+Mans%7CCaen+Castle
